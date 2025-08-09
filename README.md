@@ -9,7 +9,7 @@ Hello! I'm Nemesis. I'm a programmer,UI/UX designer and like to play games  <br>
 <br>
 
 <div float="left" align="center">
-    <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
+   
   <div>
      <kbd>
        <br>
